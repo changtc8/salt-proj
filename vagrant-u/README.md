@@ -14,6 +14,6 @@ file_roots:
           - /srv/salt   
 
 
-#Minion config
+#Minion Config
 Make following changes in salt/minion    
 master: 192.168.10.8     
