@@ -17,3 +17,8 @@ file_roots:
 #Minion Config
 Make following changes in salt/minion    
 master: 192.168.10.8     
+
+###mongotest.py
+After installation, run this to test sample mongodb 
+command to make sure installation is correct.
+
